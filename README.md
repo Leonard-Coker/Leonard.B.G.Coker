@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **UX/UI, FullStack, Php & Python**
 
-- 📫 How to reach me **geraldcokerjunior@gmail.com, / +23290294565**
+- 📫 How to reach me **geraldcokerjunior@gmail.com**
 
 - ⚡ Fun fact **I'm always ready to learn**
 
