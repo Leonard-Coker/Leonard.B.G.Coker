@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leonard Coker</h1>
-<h3 align="center">A passionate UX/UI & DevOps from Sierra Leone</h3>
+<h3 align="center">A passionate UX/UI Designer & Upcoming Software Engineer from Sierra Leone</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonard-coker&label=Profile%20views&color=0e75b6&style=flat" alt="leonard-coker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonard-coker" alt="leonard-coker" /></a> </p>
 
-- 🌱 I’m currently learning **UX/UI, FullStack, Php & Python**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 🤝 I’m looking for help with **UX/UI, FullStack, Php & Python**
 
-- 📫 How to reach me **geraldcokerjunior@gmail.com**
+- 📫 How to reach me **geraldcokerjunior@gmail.com, / +23290294565**
 
 - ⚡ Fun fact **I'm always ready to learn**
 
